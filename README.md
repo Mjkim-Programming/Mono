@@ -14,6 +14,8 @@ $ chmod +x ./install.sh
 $ ./install.sh
 ```
 
+Only supports linux for now. Do you want windows install script and do you thing that you can create it? Then please contribute!
+
 ## Example
 ```cpp
 #include <mono/observable.hpp>
